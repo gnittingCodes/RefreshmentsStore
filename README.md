@@ -1,5 +1,4 @@
-# SCRUM DEVELOPMENT - VENDING MACHINE
-
+## Instructions 
 To run the application:
 
 At the terminal, run the following command: `gradle run`
